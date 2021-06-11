@@ -1,1 +1,3 @@
-This is the folder for client-side i.e frontend
+# ReactLoginRegisterUI
+
+[React Bootstrap Login & Register UI Templates](https://www.remotestack.io/react-bootstrap-login-register-ui-templates/)
